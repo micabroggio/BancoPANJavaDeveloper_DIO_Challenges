@@ -1,3 +1,4 @@
+/*
 Desafio
 Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo. Em caso positivo, calcule o perímetro do triângulo (soma de todos os lados) e apresente a mensagem:
 Perimetro = XX.X
@@ -10,7 +11,7 @@ A entrada contém três valores reais.
 
 Saída
 O resultado deve ser apresentado com uma casa decimal.
-
+*/
 
 import java.io.IOException;
 import java.util.Scanner;

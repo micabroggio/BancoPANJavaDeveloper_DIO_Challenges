@@ -1,3 +1,4 @@
+/*
 Desafio
 Seu Zé está vendendo frutas com a seguinte tabela de preços:
 
@@ -13,7 +14,7 @@ Como entrada, você recebera a quantidade em kg de morangos e a quantidade em kg
 
 Saída
 Será o valor a ser pago pelo cliente, conforme a tabela de preços da quintanda do seu Zé.
-
+*/
 
 import java.util.*;
 

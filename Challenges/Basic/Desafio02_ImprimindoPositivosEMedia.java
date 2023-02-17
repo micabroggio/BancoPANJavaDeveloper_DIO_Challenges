@@ -7,11 +7,12 @@ A entrada contém 6 números que podem ser valores inteiros ( int ) ou de ponto 
 
 Saída
 O primeiro valor de saída é a quantidade de valores positivos. A próxima linha deve mostrar a média dos valores positivos digitados.
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.ArrayList;
-*/
+
 
 public class DIO {
 	
