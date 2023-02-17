@@ -19,7 +19,6 @@ public class Main {
      		String[] strSplit = str.split(" ");
      		int espacosEmBranco = strSplit.length - 1, quantVogais = 0;
      
-     		String[] strLetter;
      		for (String item : strSplit) {
         		item = item.toLowerCase();
         
